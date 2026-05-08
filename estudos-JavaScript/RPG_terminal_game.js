@@ -155,8 +155,7 @@ function iniciarjogo() {
             console.log("Opção inválida!")
         }
 
-        
-
+   
     }
 
 }
